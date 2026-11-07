@@ -10,9 +10,3 @@ The project starts with parameter estimation from noisy synthetic data, then app
 - Explore how priors and measurement noise affect posterior distributions.
 - Estimate a common black-hole component mass and a distance parameter using a simplified waveform model.
 - Visualize posterior distributions and compare inferred waveforms with detector data.
-
-## Tools
-
-Python · Jupyter · NumPy · SciPy · Matplotlib · corner · PyCBC · LALSuite
-
-Developed for the *Methods for Data-driven Modelling* course at PSL.
